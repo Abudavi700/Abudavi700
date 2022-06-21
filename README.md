@@ -3,6 +3,7 @@ Hello! My name is [Abu Davi](https://www.linkedin.com/in/abudavi/) from Cirebon.
 
 # 📌 Projects
 Project | Description | Language/Library/Method
+--- | --- | --- | --- | ---
 [House Price Modelling using Python](https://github.com/Abudavi700/House_price_modelling_using_python) | Modelling and predicting house price in King County using several model | Python, SKLearn Linear Regression, Multiple Regression, K-Nearest Neighbors, dan Random Forest
 [Traveloka Hotel Ranking modelling and Recomender System Building](https://github.com/Next-Hotel) | Building the best model for hotel ranking and recommender system based on user preferences. This project is part of Company-based project of Bangkit 2022 Program | Python, Catboost, Light GBM, XGBM and TensorFlow DNN
 [BBC News Classification (NLP)](https://github.com/Abudavi700/bbc-news-classification-using-tensorflow) | Modelling Natural Language Processing to classify BBC News into several class | Python, Keras Tokenizer and pad sequences, SKLearn
@@ -10,9 +11,7 @@ Project | Description | Language/Library/Method
 # 💼 Work Experience
 Roles | Type | Location | Duration | From-Until
 --- | --- | --- | --- | ---
-- | - | - | -
-- | - | - | -
-- | - | - | -
+x | x | x | x
 
 # 💻 Languages, Frameworks, DB and Tools
 
