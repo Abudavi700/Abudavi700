@@ -11,7 +11,7 @@ Project | Description | Language/Library/Method
 # 💼 Work Experience
 Roles | Description | Location | Duration | From-Until
 --- | --- | --- | --- | ---
-Research Intern | Worked on project ["Site Selection of Retail Shops Based on Spatial Analysis and Machine Learning for Sale Forecasting](https://storymaps.arcgis.com/stories/b0bb121f331f4bc985c397de02c8d818) | Esri Indonesia, Jakarta | Mei-Juni 2020
+Research Intern | Worked on project ["Site Selection of Retail Shops Based on Spatial Analysis and Machine Learning for Sale Forecasting](https://storymaps.arcgis.com/stories/b0bb121f331f4bc985c397de02c8d818) | Esri Indonesia, Jakarta | 2 months | Mei-Juni 2020
 
 # 💻 Languages, Frameworks, DB and Tools
 
