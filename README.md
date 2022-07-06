@@ -9,9 +9,9 @@ Project | Description | Language/Library/Method
 [BBC News Classification (NLP)](https://github.com/Abudavi700/bbc-news-classification-using-tensorflow) | Modelling Natural Language Processing to classify BBC News into several class | Python, TensorFlow, Keras Tokenizer and pad sequences, SKLearn
 
 # 💼 Work Experience
-Roles | Type | Location | Duration | From-Until
+Roles | Description | Location | Duration | From-Until
 --- | --- | --- | --- | ---
-x | x | x | x
+Research Intern | Worked on project ["Site Selection of Retail Shops Based on Spatial Analysis and Machine Learning for Sale Forecasting](https://storymaps.arcgis.com/stories/b0bb121f331f4bc985c397de02c8d818) | Esri Indonesia, Jakarta | Mei-Juni 2020
 
 # 💻 Languages, Frameworks, DB and Tools
 
