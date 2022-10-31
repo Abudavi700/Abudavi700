@@ -1,5 +1,5 @@
 # 💬 Introduction
-Hello! My name is [Abu Davi](https://www.linkedin.com/in/abudavi/) from Cirebon. I am a final year student in Urban and Regional Planning at Institut Teknologi Bandung. I am eager to enhance my skills on data science and machine learning development. I have strong basic on any data related tools such as Python, TensorFlow, Excel, STATA, etc. Moreover, I have so much interest to work with data as I have experiencing several learning process on CfDS X Huawei: AI with a Cause, Dicoding intro to machine learning, and Bangkit Program on Machine Learning Path. Feel free to contact me!
+Hello! My name is [Abu Davi](https://www.linkedin.com/in/abudavi/) from Cirebon. I am fresh graduate of Institut Teknologi Bandung. I am eager to enhance my skills on data science and machine learning development. I have strong basic on any data related tools such as Python, TensorFlow, Excel, STATA, etc. Moreover, I have so much interest to work with data as I have experiencing several learning process on CfDS X Huawei: AI with a Cause, Dicoding intro to machine learning, and Bangkit Program on Machine Learning Path. Feel free to contact me!
 
 # 📌 Projects
 Project | Description | Language/Library/Method
