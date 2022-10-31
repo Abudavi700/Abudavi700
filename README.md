@@ -7,6 +7,8 @@ Project | Description | Language/Library/Method
 [House Price Modelling using Python](https://github.com/Abudavi700/House_price_modelling_using_python) | Modelling and predicting house price in King County using several model | Python, SKLearn Linear Regression, Multiple Regression, K-Nearest Neighbors, dan Random Forest
 [Traveloka Hotel Ranking modelling and Recomender System Building](https://github.com/Next-Hotel) | Building the best model for hotel ranking and recommender system based on user preferences. This project is part of Company-based project of Bangkit 2022 Program | Python, Catboost, Light GBM, XGBM and TensorFlow DNN
 [BBC News Classification (NLP)](https://github.com/Abudavi700/bbc-news-classification-using-tensorflow) | Modelling Natural Language Processing to classify BBC News into several class | Python, TensorFlow, Keras Tokenizer and pad sequences, SKLearn
+[SQL Covid Exploratory Data Analysis](https://github.com/Abudavi700/SQL-Covid-Exploratory-Data-Analysis) | Exploring covid deaths and vaccination dataset using basic PostgreSQL commands | PostgreSQL
+
 
 # 💼 Work Experience
 Roles | Description | Location | Duration | From-Until
